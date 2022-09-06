@@ -6,8 +6,8 @@ from ex5 import Quadrado
 def main():
     quad = Quadrado(42)
 
-    print(f'A área do quadrado é {quad.get_area()}')
-    print(f'O perímetro do quadrado é {quad.get_perimetro()}')
+    print(f'A área do quadrado é {quad.area()}')
+    print(f'O perímetro do quadrado é {quad.perimetro()}')
 
 
 if __name__ == "__main__":
