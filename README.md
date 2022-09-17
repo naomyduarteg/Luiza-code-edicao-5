@@ -4,4 +4,4 @@
 <p>💙 Aulas</p>
 <p>💙 Exercícios</p>
 <p>💙 Projeto</p>
-<p>Em Aulas, temos o resumo de cada módulo apresentado. Em Exercícios, temos alguns exercícios propostos da lista do módulo referente. Em Projeto, encontra-se o projeto desenvolvido ao longo do curso.</p>
+<p>Em Aulas, temos o resumo de cada módulo apresentado. Em Exercícios, temos alguns exercícios propostos da lista do módulo referente. Em Projetos, encontram-se os projetos desenvolvidos ao longo do curso e o projeto final.</p>
