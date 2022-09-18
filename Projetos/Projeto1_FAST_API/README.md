@@ -8,9 +8,6 @@ Este é um projeto que visa estabelecer as bases da criação de um carrinho de 
 ## Instruções <a name="instruction"></a>
 1. Clone o repositório
 
-```
-uvicorn projeto1:app --reload
-```
 2. Crie um ambiente virtual
 
 ```
